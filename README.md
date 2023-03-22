@@ -1,6 +1,6 @@
 # camarades.ch
 
-This repository contains the source code for a website that will be published under [www.camarades.ch](www.camarades.ch). The website is built with [Hugo](https://gohugo.io/) and uses an adapted version of the [Hugo Whisper Theme](https://github.com/zerostaticthemes/hugo-whisper-theme).
+This repository contains the source code for a website that will be published under [www.camarades.ch](https://www.camarades.ch). The website is built with [Hugo](https://gohugo.io/) and uses an adapted version of the [Hugo Whisper Theme](https://github.com/zerostaticthemes/hugo-whisper-theme).
 
 ## Structure of the repository
 
