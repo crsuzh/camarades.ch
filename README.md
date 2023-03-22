@@ -16,7 +16,15 @@ if you are cloning via ssh, or
 
 `git clone --recurse-submodules https://github.com/felix-hof/camarades.ch.git`
 
-if you ar cloning via https.
+if you are cloning via https.
 
 ## Working with the repository
 
+After cloning with one of the above commands, the submodule will be in detached HEAD state. This can be fixed by running the following commands:
+
+```
+cd camarades.ch/themes/hugo-whisper-theme
+git checkout master
+```
+
+After that, everything should work as intended. Note, however, that if you make any changes to the submodule, i.e. to any file under `themes/hugo-whisper-theme`, you need to commit (and push) it and push it from within the submodule directory. After committing these changes to the submodule, it is also necessary to update the reference to the submodule in the main repository.
