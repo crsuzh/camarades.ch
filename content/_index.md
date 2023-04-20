@@ -9,5 +9,5 @@ Hallo Welt
 
 Ade Du schnöde Welt
 
-![mountain image](/static/mountain.jpeg "Mountains")
+![mountain image](mountain.jpeg "Mountains")
 
