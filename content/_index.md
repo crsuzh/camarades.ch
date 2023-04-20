@@ -9,5 +9,7 @@ Hallo Welt
 
 Ade Du schnöde Welt
 
-![cat!](/content/Cat.jpeg "San Juan Mountains")
+![cat!](static/Cat.jpeg "San Juan Mountains")
+
+![mountain image](static/mountain.jpeg "Mountains")
 
