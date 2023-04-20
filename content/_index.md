@@ -9,5 +9,5 @@ Hallo Welt
 
 Ade Du schnöde Welt
 
-![catty!](/home/bineic/camarades.ch/content/Cat.jpg "San Juan Mountains")
+![catty!](/content/Cat.jpg "San Juan Mountains")
 
