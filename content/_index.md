@@ -9,3 +9,5 @@ Hallo Welt
 
 Ade Du schnöde Welt
 
+![catty!](/assets/images/san-juan-mountains.jpg "San Juan Mountains")
+
