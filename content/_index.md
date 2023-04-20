@@ -1,13 +1,14 @@
 ---
-title: 'Hugo Whisper Docs'
+title: 'CAMARADES Zurich'
 date: 2018-11-28T15:14:39+10:00
 ---
 
-Whisper is a documentation theme built with Hugo. The design and functionality is intentionally minimal. 
+Welcome to CAMARADES Zurich!
 
-Hallo Welt
+![camarades zurich logo](camarades_zurich.png "CAMARADES Zurich")
 
-Ade Du schnöde Welt
+Systematic review, that is the structured and reproducible research summary on a given question is a great tool for any animal researchers.
 
-![mountain image](mountain.jpeg "Mountains")
+The CAMARADES team is happy to support you in your systematic review.
 
+[Get in touch!](mailto:benjamin.ineichen@uzh.ch?subject=CAMARADES:%20contact%20form)
