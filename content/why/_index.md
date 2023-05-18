@@ -13,7 +13,9 @@ Systematic reviews follow a rigorous methodology. With this, they have **several
 * Meta-analyses can help smaller studies to reach statistical significance and also to triangulate heterogeneity within a certain field.
 Based on these strengths, systematic reviews are at the top of the so-called evidence pyramid, meaning they form the highest level of evidence.
 
-IMAGE PYRAMID!
+![Evidence pyramid](evidence_pyramid.png "Evidence pyramid")
+
+![camarades zurich logo](camarades_zurich.png "CAMARADES Zurich")
 
 In addition, systematic reviews of animal studies are a **valuable tool to inform the 3R principles (replacement, reduction, refinement)** which are a framework for humane animal research:
 * By systematically reviewing the literature, unnecessary duplication of animal experiments can be reduced.
