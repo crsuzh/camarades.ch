@@ -32,13 +32,18 @@ summaryLength = 30
     url = "/test/"
     weight = 2    
 
+[[menu.main]]
+    name = "Test2"
+    url = "/test2/"
+    weight = 2   
+
 [params]
   google_analytics_id=""
   homepage_button_link = '/docs'
   homepage_button_text = 'Read The Docs'
   homepage_intro = 'Whisper is a documentation theme built with Hugo. The design and functionality is intentionally minimal.'
   homepage_image = 'camarades_zurich.png'
-  mainSections = ["docs", "test"]
+  mainSections = ["docs", "test", "test2"]
   ## You can enable to add anchor links to header elements
   # enable_anchor_link = true
 

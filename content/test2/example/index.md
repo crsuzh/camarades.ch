@@ -1,9 +1,10 @@
 ---
-title: ''
+title: 'Hugo Whisper'
 date: 2019-02-11T19:27:37+10:00
 weight: 6
 ---
 
+Whisper is a minimal documentation theme built for Hugo. The design &amp; functionality is intentionally minimal.
 
 <!--more-->
 
