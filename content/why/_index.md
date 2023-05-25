@@ -13,9 +13,13 @@ Systematic reviews follow a rigorous methodology. With this, they have **several
 * Meta-analyses can help smaller studies to reach statistical significance and also to triangulate heterogeneity within a certain field.
 Based on these strengths, systematic reviews are at the top of the so-called evidence pyramid, meaning they form the highest level of evidence.
 
-![Evidence pyramid](evidence_pyramid.png "Evidence pyramid")
+![Evidence pyramid](../evidence_pyramid.png "Evidence pyramid")
 
-![camarades zurich logo](camarades_zurich.png "CAMARADES Zurich")
+<div style="display: flex; justify-content: center;">
+{{< figure src="../evidence_pyramid.png" alt="CAMARADES Zurich" width="20%" >}}
+</div>
+
+{{< figure src="../evidence_pyramid.png" alt="CAMARADES Zurich" width="20%" class="center" >}}
 
 In addition, systematic reviews of animal studies are a **valuable tool to inform the 3R principles (replacement, reduction, refinement)** which are a framework for humane animal research:
 * By systematically reviewing the literature, unnecessary duplication of animal experiments can be reduced.
@@ -25,7 +29,7 @@ In addition, systematic reviews of animal studies are a **valuable tool to infor
 
 With this, systematic reviews and meta-analyses are a great tool to **probe a field** (e.g., when starting a PhD), to **assess failures or successes in bench-to-bedside translation**, to **inform early phase clinical trials or future preclinical studies**, and to **foster 3R principles**.
 
-##### References and further reading
+###### References and further reading
 Russell WM, Burch RL, Hume CW. The principles of humane experimental technique. London: Methuen; 1959.
 
 Hooijmans CR, Ritskes-Hoitinga M. Progress in using systematic reviews of animal studies to improve translational research. PLoS Med. 2013;10(7):e1001482. Epub 2013 Jul 16. PMID: 23874162; PMCID: PMC3712909. doi: https://doi.org/10.1371/journal.pmed.1001482
