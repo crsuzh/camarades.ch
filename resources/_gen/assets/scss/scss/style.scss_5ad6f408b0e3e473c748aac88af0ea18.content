@@ -7838,4 +7838,16 @@ body {
   padding-left: 20px;
   padding-right: 20px; }
 
+img[src$='#center'] {
+  display: block;
+  margin: 0.7rem auto; }
+
+img[src$='#floatleft'] {
+  float: left;
+  margin: 0.7rem; }
+
+img[src$='#floatright'] {
+  float: right;
+  margin: 0.7rem; }
+
 /*# sourceMappingURL=style.css.map */

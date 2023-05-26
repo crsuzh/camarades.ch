@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tools for systematic review on Hugo Whisper Theme</title>
+    <link>www.example.com/tools/</link>
+    <description>Recent content in Tools for systematic review on Hugo Whisper Theme</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 28 Nov 2018 15:14:39 +1000</lastBuildDate><atom:link href="www.example.com/tools/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title></title>
+      <link>www.example.com/tools/install-hugo/</link>
+      <pubDate>Mon, 11 Feb 2019 19:27:37 +1000</pubDate>
+      
+      <guid>www.example.com/tools/install-hugo/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>www.example.com/tools/install-theme/</link>
+      <pubDate>Mon, 11 Feb 2019 19:27:37 +1000</pubDate>
+      
+      <guid>www.example.com/tools/install-theme/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>www.example.com/tools/configure/</link>
+      <pubDate>Mon, 11 Feb 2019 19:30:08 +1000</pubDate>
+      
+      <guid>www.example.com/tools/configure/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>www.example.com/tools/specimen/</link>
+      <pubDate>Mon, 11 Feb 2019 19:27:37 +1000</pubDate>
+      
+      <guid>www.example.com/tools/specimen/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>www.example.com/tools/example/</link>
+      <pubDate>Mon, 11 Feb 2019 19:27:37 +1000</pubDate>
+      
+      <guid>www.example.com/tools/example/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

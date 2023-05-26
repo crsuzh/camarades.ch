@@ -1,0 +1,158 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>10 steps to conduct a systematic review on Hugo Whisper Theme</title>
+    <link>www.example.com/steps/</link>
+    <description>Recent content in 10 steps to conduct a systematic review on Hugo Whisper Theme</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 28 Nov 2018 15:14:39 +1000</lastBuildDate><atom:link href="www.example.com/steps/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Install Hugo</title>
+      <link>www.example.com/steps/install-hugo/</link>
+      <pubDate>Mon, 11 Feb 2019 19:27:37 +1000</pubDate>
+      
+      <guid>www.example.com/steps/install-hugo/</guid>
+      <description>To use this theme you will need to have Hugo installed. If you don&amp;rsquo;t already have Hugo installed please follow the official installation guide
+Check Hugo Version This theme uses Hugo Pipes to compile SCSS and minify assets. Please make sure you have the Hugo Extended version installed. If you are not using the extended version this theme will not not compile.
+Hallo!
+hugo version </description>
+    </item>
+    
+    <item>
+      <title>Step 10: Make your systematic review publicly available</title>
+      <link>www.example.com/steps/step10/</link>
+      <pubDate>Mon, 11 Feb 2019 19:27:37 +1000</pubDate>
+      
+      <guid>www.example.com/steps/step10/</guid>
+      <description>It is critical to make your systematic review publicly available, independent from what the outcome was (and even if no clear conclusions could be made). The reason for this necessity is twofold: first, to mitigate publication bias and second, to inform colleagues about your study to avoid unnecessary duplication of work. Be aware that the status of your protocol should be updated upon publication of your manuscript.
+Be cautious when interpreting your results and make sure to acknowledge sources of bias; consider heterogeneity, generalisability, and relevance.</description>
+    </item>
+    
+    <item>
+      <title>Step 1: Define a specific research question</title>
+      <link>www.example.com/steps/step1/</link>
+      <pubDate>Mon, 11 Feb 2019 19:27:37 +1000</pubDate>
+      
+      <guid>www.example.com/steps/step1/</guid>
+      <description>Having a specific research question is among the most critical steps during the systematic review process. Consider the following examples:
+ What is the effect of drugs on animal models of neurological disorders? What is the effect of drugs on animal models of acute stroke? What is the effect of fluoxetine on animal models of acute stroke? What is the effect of fluoxetine on functional outcomes in rodent models of acute stroke?</description>
+    </item>
+    
+    <item>
+      <title>Step 2: Define your systematic review team</title>
+      <link>www.example.com/steps/step2/</link>
+      <pubDate>Mon, 11 Feb 2019 19:27:37 +1000</pubDate>
+      
+      <guid>www.example.com/steps/step2/</guid>
+      <description>Ideally, a systematic review team comprises expertise from different fields. At a bare minimum, a team should include two researchers to enable independent abstract and full text screening as well as data extraction and risk of bias assessment to be in accordance with formal guidelines (see steps 5, 6, and 7). However, under ideal circumstances, the team should involve additional expertise:
+ Librarians/information specialists: they can help you to refine your search strategy and usually know a great deal about the plethora of biomedical databases which should be searched for the systematic review.</description>
+    </item>
+    
+    <item>
+      <title>Step 3: Write and register a protocol</title>
+      <link>www.example.com/steps/step3/</link>
+      <pubDate>Mon, 11 Feb 2019 19:27:37 +1000</pubDate>
+      
+      <guid>www.example.com/steps/step3/</guid>
+      <description>A priori writing and registration of a systematic review protocol is a key step for conducting a rigorous systematic review. This is important to mitigate a variety of biases during the review process. A pre-defined protocol also helps to structure the review process. Such a systematic review protocol pre-specifies the employed review methodology. Concretely, the protocol should predefine the following parameters:
+ Research question: What is the rationale and PICO of your study?</description>
+    </item>
+    
+    <item>
+      <title>Step 4: Conduct a comprehensive literature search</title>
+      <link>www.example.com/steps/step4/</link>
+      <pubDate>Mon, 11 Feb 2019 19:27:37 +1000</pubDate>
+      
+      <guid>www.example.com/steps/step4/</guid>
+      <description>A good literature search for a systematic review should be both comprehensive and reproducible. With this, the focus of the search should be on sensitivity rather than on specificity, i.e., to not potentially miss relevant studies and condoning to also identify irrelevant studies (which will be sorted for eligibility during step 5). The search strategy should be meticulously documented; this is not only important for other groups to potentially reproduce the search but it is also key for potential later update searches.</description>
+    </item>
+    
+    <item>
+      <title>Step 5: Screen abstracts</title>
+      <link>www.example.com/steps/step5/</link>
+      <pubDate>Mon, 11 Feb 2019 19:27:37 +1000</pubDate>
+      
+      <guid>www.example.com/steps/step5/</guid>
+      <description>The reference library identified by the comprehensive literature search will still comprise non-relevant references. Thus, these references must be screened for eligibility based on titles and abstracts. At least two reviewers ought to sort these references independently from each other (i.e., blinded to the decision of the other reviewer). Discrepancies between the two reviewers can either be resolved by discussion or by a third reviewer. Eligible references will be retrieved for full text analysis and potentially data extraction.</description>
+    </item>
+    
+    <item>
+      <title>Step 6: Screen full texts</title>
+      <link>www.example.com/steps/step6/</link>
+      <pubDate>Mon, 11 Feb 2019 19:27:37 +1000</pubDate>
+      
+      <guid>www.example.com/steps/step6/</guid>
+      <description>The full text of potentially eligible references will be scrutinized (as identified in step 5), again by at least two independent reviewers. This is particularly important for records in which the title and/or abstract provided ambivalent information on eligibility. EndNote provides a full text fetch function which is able to automatically find most of the full texts available through institutional licenses. Remaining full texts can be searched manually. A tool which renders manual full text search particularly quick is Google Scholar with its sensitive search engine, e.</description>
+    </item>
+    
+    <item>
+      <title>Step 7: Extract data</title>
+      <link>www.example.com/steps/step7/</link>
+      <pubDate>Mon, 11 Feb 2019 19:27:37 +1000</pubDate>
+      
+      <guid>www.example.com/steps/step7/</guid>
+      <description>For references which remain eligible at full text stage, data of interest will be extracted (or, as suggested in step 6, it is advisable in most cases to combine full text screening with data extraction). The data to extract should have been predefined in the protocol (see step 3). Of note, additional data may be extracted. Like abstract and full text sorting, data should be extracted by two independent reviewers. Covidence offers the option for custom-designing extraction sheets, based on a subscription-fee.</description>
+    </item>
+    
+    <item>
+      <title>Step 8: Assess the risk of bias (&#34;study quality&#34;)</title>
+      <link>www.example.com/steps/step8/</link>
+      <pubDate>Mon, 11 Feb 2019 19:27:37 +1000</pubDate>
+      
+      <guid>www.example.com/steps/step8/</guid>
+      <description>Methodological characteristics of eligible studies are of obvious relevance for the systematic review. Concretely, if eligible studies are methodologically flawed, the conclusions drawn from a systematic review might be compromised or even misleading. Thus, it is recommended to formally assess risk of bias of included studies 22-24. Bias refers to a systematic distortion of study results or conclusions, e.g., resulting in an under- or overestimation of an interventions effect size 3.</description>
+    </item>
+    
+    <item>
+      <title>Step 9: Draw conclusions from your data (and meta-analysis including publication bias)</title>
+      <link>www.example.com/steps/step9/</link>
+      <pubDate>Mon, 11 Feb 2019 19:27:37 +1000</pubDate>
+      
+      <guid>www.example.com/steps/step9/</guid>
+      <description>After compiling the necessary data, the goal of this step is to answer the initially posed research question as defined in the protocol. For this, all review authors should come together, ideally with knowledge about the extracted data and the overall risk of bias of eligible studies. Several consensus rounds among study authors might be required to draw a conclusion.
+If defined in the protocol, now is also the time to conduct a sensitivity analysis to determine the robustness of the conclusion(s).</description>
+    </item>
+    
+    <item>
+      <title>Install Theme</title>
+      <link>www.example.com/steps/install-theme/</link>
+      <pubDate>Mon, 11 Feb 2019 19:27:37 +1000</pubDate>
+      
+      <guid>www.example.com/steps/install-theme/</guid>
+      <description>Create a new Hugo site hugo new site mynewsite This will create a fresh Hugo site in the folder mynewsite.
+Install theme Copy or git clone this theme into the sites themes folder mynewsite/themes
+Install with Git cd mynewsite cd themes git clone https://github.com/jugglerx/hugo-whisper-theme.git Install from .zip file You can download the .zip file located here https://github.com/JugglerX/hugo-whisper-theme/archive/master.zip.
+Extract the downloaded .zip inside the themes folder. Rename the extracted folder from hugo-whisper-theme-master -&amp;gt; hugo-whisper-theme.</description>
+    </item>
+    
+    <item>
+      <title>Configuration</title>
+      <link>www.example.com/steps/configure/</link>
+      <pubDate>Mon, 11 Feb 2019 19:30:08 +1000</pubDate>
+      
+      <guid>www.example.com/steps/configure/</guid>
+      <description>Syntax highlighting and menus can be configured via &lt;code&gt;config.toml&lt;/code&gt;.</description>
+    </item>
+    
+    <item>
+      <title>Specimen</title>
+      <link>www.example.com/steps/specimen/</link>
+      <pubDate>Mon, 11 Feb 2019 19:27:37 +1000</pubDate>
+      
+      <guid>www.example.com/steps/specimen/</guid>
+      <description>Markdown Test Page  Headings Paragraphs Blockquotes Lists Horizontal rule Table Code Inline elements   Headings Heading one Sint sit cillum pariatur eiusmod nulla pariatur ipsum. Sit laborum anim qui mollit tempor pariatur nisi minim dolor. Aliquip et adipisicing sit sit fugiat commodo id sunt. Nostrud enim ad commodo incididunt cupidatat in ullamco ullamco Lorem cupidatat velit enim et Lorem.
+Heading two Aute officia nulla deserunt do deserunt cillum velit magna.</description>
+    </item>
+    
+    <item>
+      <title>Hugo Whisper</title>
+      <link>www.example.com/steps/example/</link>
+      <pubDate>Mon, 11 Feb 2019 19:27:37 +1000</pubDate>
+      
+      <guid>www.example.com/steps/example/</guid>
+      <description>&lt;p&gt;Whisper is a minimal documentation theme built for Hugo. The design &amp;amp; functionality is intentionally minimal.&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>
