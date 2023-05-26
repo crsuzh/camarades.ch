@@ -26,7 +26,7 @@ The more qualitative aspect of systematic review can be complemented by a quanti
 The more qualitative aspect of systematic review can be complemented by a quantitative approach, i.e., a meta-analysis. A meta-analysis is a statistical method pooling different study measures to create a single estimate of outcomes. Meta-analyses can also be helpful to evaluate heterogeneity among eligible references and to probe the publication bias within a field. Together, systematic reviews and meta-analyses are considered to represent the highest level in the hierarchy of evidence.
 
 
-##### References and further reading
+###### References and further reading
 de Vries RB, Wever KE, Avey MT, Stephens ML, Sena ES, Leenaars M. The usefulness of systematic reviews of animal experiments for the design of preclinical and clinical studies. ILAR J. 2014;55(3):427-37.. PMID: 25541545; PMCID: PMC4276599. doi: https://doi.org/10.1093/ilar/ilu043 
 
 Egger, M., Higgins, J. P. & Smith, G. D. Systematic reviews in health research: Meta-analysis in context.  (John Wiley & Sons, 2022).
