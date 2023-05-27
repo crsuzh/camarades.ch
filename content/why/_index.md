@@ -27,6 +27,12 @@ In addition, systematic reviews of animal studies are a **valuable tool to infor
 
 With this, systematic reviews and meta-analyses are a great tool to **probe a field** (e.g., when starting a PhD), to **assess failures or successes in bench-to-bedside translation**, to **inform early phase clinical trials or future preclinical studies**, and to **foster 3R principles**.
 
+
+{{< figure src="../3R_rat.png#center" alt="Evidence pyramid" width="20%" >}}
+&nbsp;  
+&nbsp;  
+
+
 ###### References and further reading
 Russell WM, Burch RL, Hume CW. The principles of humane experimental technique. London: Methuen; 1959.
 

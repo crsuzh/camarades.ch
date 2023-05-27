@@ -9,7 +9,9 @@ Before you start, ask yourself the following two questions:
 2) Have other authors addressed or are planning to address my question using systematic review? Make a check on [Pubmed](https://pubmed.ncbi.nlm.nih.gov/) and on the prospective registry for systematic review protocols [PROSPERO](https://www.crd.york.ac.uk/prospero/). You can also check on the [Open Science Framework](https://osf.io/).
 
 A systematic review requires rigorous methodology. You can conduct your own systematic review by following these steps:
- 
-{{< figure src="../Flowchart_SR.png#center" alt="Flow chart of a systematic review" width="50%" >}}
 &nbsp;  
 &nbsp;  
+
+{{< figure src="../Flowchart_SR.png#center" alt="Flow chart of a systematic review" width="30%" >}}
+&nbsp;  
+
