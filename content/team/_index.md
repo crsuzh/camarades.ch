@@ -46,7 +46,7 @@ Do you want to support us or conduct your own systematic review or do you have f
 CAMARADES Zurich are located at the [Center for Reproducible Science](https://www.crs.uzh.ch/en.html) at the [Epidemiology, Biostatistics, and Prevention Institute](https://www.ebpi.uzh.ch/en.html) (EBPI) at the University of Zurich.
 &nbsp;  
 
-{{< figure src="../CRS_logo.jpg#center" alt="Logo" width="40%" >}}
+{{< figure src="../CRS_logo.jpg#center" alt="Logo" width="20%" >}}
 &nbsp;  
 
 We are thankful for funding from the Swiss National Science Foundation and the United Animal Welfare Foundation (UFAW).
