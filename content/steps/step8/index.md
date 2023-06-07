@@ -1,7 +1,7 @@
 ---
 title: 'Step 8: Assess the risk of bias ("study quality")'
 date: 2019-02-11T19:27:37+10:00
-weight: 2
+weight: 8
 ---
 
 Methodological characteristics of eligible studies are of obvious relevance for the systematic review. Concretely, if eligible studies are methodologically flawed, the conclusions drawn from a systematic review might be compromised or even misleading. Thus, it is **recommended to formally assess risk of bias of included studies** 22-24. Bias refers to a systematic distortion of study results or conclusions, e.g., resulting in an under- or overestimation of an interventions effect size 3. For example, common sources of bias in both preclinical and clinical studies are absence of blinding or researchers or randomization. Studies which omit such rigorous research practices are thus at high risk of bias might be excluded from the analysis to probe the robustness of the conclusion(s) (see step 9).

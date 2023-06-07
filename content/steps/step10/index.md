@@ -1,7 +1,7 @@
 ---
 title: 'Step 10: Make your systematic review publicly available'
 date: 2019-02-11T19:27:37+10:00
-weight: 2
+weight: 10
 ---
 
 It is **critical to make your systematic review publicly available**, independent from what the outcome was (and even if no clear conclusions could be made). The reason for this necessity is twofold: first, to mitigate publication bias and second, to inform colleagues about your study to avoid unnecessary duplication of work. Be aware that the status of your protocol should be updated upon publication of your manuscript.

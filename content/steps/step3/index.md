@@ -1,7 +1,7 @@
 ---
 title: 'Step 3: Write and register a protocol'
 date: 2019-02-11T19:27:37+10:00
-weight: 2
+weight: 3
 ---
 
 A priori writing and registration of a systematic review protocol is a key step for conducting a rigorous systematic review. This is important to mitigate a variety of biases during the review process. A pre-defined protocol also helps to structure the review process.
