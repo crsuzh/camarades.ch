@@ -1,2 +1,4 @@
 # Do not track 'public' directory
 public/
+# Remove 'resources' directory
+resources/
