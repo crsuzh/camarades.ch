@@ -10,6 +10,8 @@ Visit our CAMARADES/STRIDE summer school and learn how to conduct your own syste
 &nbsp;  
 &nbsp;  
 
+Development branch 
+
 **Focus, goals, and target groups​**
 
 The growth of biomedical literature presents challenges for reproducible research. To address this, researchers need tools to manage data and conduct structured research. The summer school aims to equip participants with skills to conduct systematic reviews of animal studies independently and introduce them to concepts of automation in the systematic review process. Additionally, the school seeks to expand collaborations and promote ongoing preclinical research. The school is primarily aimed at PhD students and postdoctoral researchers at the University of Zurich who conduct research on animals. However, the school welcomes participants from other departments and institutes who want to learn about systematic reviews in preclinical research.​
