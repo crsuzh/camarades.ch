@@ -1,7 +1,7 @@
 ---
 title: 'Step 7: Extract data'
 date: 2019-02-11T19:27:37+10:00
-weight: 2
+weight: 7
 ---
 
 For references which remain eligible at full text stage, data of interest will be extracted (or, as suggested in step 6, it is advisable in most cases to combine full text screening with data extraction). The **data to extract should have been predefined in the protocol** (see step 3). Of note, additional data may be extracted. Like abstract and full text sorting, data should be extracted by two independent reviewers. Covidence offers the option for custom-designing extraction sheets, based on a subscription-fee. Otherwise, **Google Sheets** provides a free web-based alternative, with online spreadsheets for independent data extraction. In the spreadsheets, rows constitute individual references for data extraction whereas columns constitute individual parameters to extract.

@@ -1,7 +1,7 @@
 ---
 title: 'Step 5: Screen abstracts'
 date: 2019-02-11T19:27:37+10:00
-weight: 2
+weight: 5
 ---
 
 The reference library identified by the comprehensive literature search will still comprise non-relevant references. Thus, these references must be **screened for eligibility based on titles and abstracts**. **At least two reviewers ought to sort these references independently from each other** (i.e., blinded to the decision of the other reviewer). Discrepancies between the two reviewers can either be resolved by discussion or by a third reviewer. Eligible references will be retrieved for full text analysis and potentially data extraction.

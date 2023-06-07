@@ -1,7 +1,7 @@
 s---
 title: 'Step 1: Define a specific research question'
 date: 2019-02-11T19:27:37+10:00
-weight: 2
+weight: 1
 ---
 
 **Having a specific research question is among the most critical steps during the systematic review process**. Consider the following examples:

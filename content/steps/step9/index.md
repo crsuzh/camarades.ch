@@ -1,7 +1,7 @@
 ---
 title: 'Step 9: Draw conclusions from your data (and meta-analysis including publication bias)'
 date: 2019-02-11T19:27:37+10:00
-weight: 2
+weight: 9
 ---
 
 After compiling the necessary data, the goal of this step is to answer the initially posed research question as defined in the protocol. For this, all review authors should come together, ideally with knowledge about the extracted data and the overall risk of bias of eligible studies. Several consensus rounds among study authors might be required to draw a conclusion.
