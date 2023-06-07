@@ -29,7 +29,7 @@ There is a variety of tools which can help you during your systematic review:
 &nbsp;  
 
 **5. Data extraction**
-* Automated text mining tool: Auto-STEED - TBA
+* Automated text mining tool: Auto-STEED can be found on our [Github](https://github.com/Ineichen-Group/Auto-STEED)
 * Text classification: in vivo filter
 &nbsp;  
 &nbsp;  
