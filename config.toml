@@ -55,9 +55,9 @@ summaryLength = 30
 
 
 [params]
-  google_analytics_id=""
+  # google_analytics_id=""
   # homepage_button_link = '/docs'
-  homepage_button_text = ''
+  # homepage_button_text = 'Read the docs'
   homepage_intro = 'The CAMARADES team Zurich, The Collaborative Approach to Meta Analysis and Review of Animal Data from Experimental Studies, is happy to support you in your animal systematic review.'
   homepage_image = ''
   mainSections = ["what", "why", "steps", "tools", "team", "news"]
@@ -76,5 +76,9 @@ summaryLength = 30
     # meta_twitter_creator = "@zerostaticio"
 
   [params.logo]
-      # mobile = "/images/logo-mobile.svg"
-      # standard  = "/images/logo.svg"
+    # mobile = "/images/logo-mobile.svg"
+    # standard  = "/images/logo.svg"
+
+  [params.footer_link]
+    footer_link_url = "https://www.zerostatic.io"
+    footer_link_display = "www.zerostatic.io"
