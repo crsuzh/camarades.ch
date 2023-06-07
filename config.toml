@@ -1,6 +1,6 @@
 baseURL = "crsuzh.github.io/camarades.ch/"
 languageCode = "en-us"
-title = "Hugo Whisper Theme"
+title = "CAMARADES Zurich"
 themesDir = "themes"
 theme = "hugo-whisper-theme"
 
@@ -31,49 +31,49 @@ summaryLength = 30
 [[menu.main]]
     name = "Why perform a systematic review?"
     url = "/why/"
-    weight = 2  
+    weight = 3  
 
 [[menu.main]]
     name = "10 steps to conduct a systematic review"
     url = "/steps/"
-    weight = 2   
+    weight = 4   
 
 [[menu.main]]
     name = "Tools"
     url = "/tools/"
-    weight = 2  
+    weight = 5  
     
 [[menu.main]]
     name = "Meet the team!"
     url = "/team/"
-    weight = 2
+    weight = 6
 
 [[menu.main]]
     name = "News"
     url = "/news/"
-    weight = 2  
+    weight = 7  
 
 
 [params]
   google_analytics_id=""
-  homepage_button_link = '/docs'
+  # homepage_button_link = '/docs'
   homepage_button_text = ''
-  homepage_intro = 'Whisper is a documentation theme built with Hugo. The design and functionality is intentionally minimal.'
+  homepage_intro = 'The CAMARADES team Zurich, The Collaborative Approach to Meta Analysis and Review of Animal Data from Experimental Studies, is happy to support you in your animal systematic review.'
   homepage_image = ''
   mainSections = ["what", "why", "steps", "tools", "team", "news"]
   ## You can enable to add anchor links to header elements
   # enable_anchor_link = true
 
   [params.homepage_meta_tags]
-    meta_description = "Hugo Whisper is a documentation theme built with Hugo."
-    meta_og_title = "Hugo Whisper Theme"
+    meta_description = "The CAMARADES team Zurich, The Collaborative Approach to Meta Analysis and Review of Animal Data from Experimental Studies, is happy to support you in your animal systematic review."
+    meta_og_title = "CAMARADES Zurich"
     meta_og_type = "website"
-    meta_og_url = "https://hugo-whisper.netlify.app"
-    meta_og_image = "https://raw.githubusercontent.com/JugglerX/hugo-whisper-theme/master/images/tn.png"
-    meta_og_description = "Hugo Whisper is a documentation theme built with Hugo."
+    # meta_og_url = "https://hugo-whisper.netlify.app"
+    # meta_og_image = "https://raw.githubusercontent.com/JugglerX/hugo-whisper-theme/master/images/tn.png"
+    meta_og_description = "The CAMARADES team Zurich, The Collaborative Approach to Meta Analysis and Review of Animal Data from Experimental Studies, is happy to support you in your animal systematic review."
     meta_twitter_card = "summary"
-    meta_twitter_site = "@zerostaticio"
-    meta_twitter_creator = "@zerostaticio"
+    # meta_twitter_site = "@zerostaticio"
+    # meta_twitter_creator = "@zerostaticio"
 
   [params.logo]
       # mobile = "/images/logo-mobile.svg"
