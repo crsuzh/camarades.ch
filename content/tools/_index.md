@@ -13,6 +13,9 @@ There is a variety of tools which can help you during your systematic review:
 
 **2. Systematic search**
 * [Search Team](https://www.ub.uzh.ch/de/unterstuetzung-erhalten/fachliche-unterstuetzung/medizin/systematic-reviews-und-auftragsrecherchen.html) from the University Library 
+* A [detailed guide](https://www.nal.usda.gov/services/literature-searching-animal-use-alternatives) for a comprehensive animal study search (does NOT only apply to finding studies related to animal use alternatives as suggested in the title of the webpage)
+* A [guide](https://www.nal.usda.gov/sites/default/files/page-files/AWIC-database-cheat-sheet-revised-12-30-2022_508.pdf) to provide information on how to use different search operators in a variety of databases.
+* A step-by-step [guide](https://journals.sagepub.com/doi/10.1258/la.2011.011087) to systematically identify all relevant animal studies (Leenaars et al., Laboratory Animals, 2012)
 &nbsp;  
 &nbsp;  
 
