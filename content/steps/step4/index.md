@@ -35,8 +35,11 @@ When you are crafting your own search string, we recommend the following heurist
 In addition, exploring related MeSH terms (Medical Subject Headings) can be of [help](https://www.ncbi.nlm.nih.gov/mesh/.). The [Polyglot Search Translator](https://sr-accelerator.com/#/polyglot) can assist you in translating the syntax of your search query across a variety of databases.
 We recommend to also get in touch with a librarian/information specialist from your local academic library. The University Library Zurich is happy to [assist you](https://www.ub.uzh.ch/de/unterstuetzung-erhalten/fachliche-unterstuetzung/medizin/systematic-reviews-und-auftragsrecherchen.html).
 
+* A [guide](https://www.nal.usda.gov/sites/default/files/page-files/AWIC-database-cheat-sheet-revised-12-30-2022_508.pdf) to provide information on how to use different search operators in a variety of databases.
+* A step-by-step [guide](https://journals.sagepub.com/doi/10.1258/la.2011.011087) to systematically identify all relevant animal studies (Leenaars et al., Laboratory Animals, 2012)
+
 ###### Combine and deduplicate your search
-The search across different databases should be combined in a reference manager software such as Endnote, Zotero, or Mendeley. Most standard reference manager software also provide tools to deduplicate the pooled reference library which can substantially reduce the number of records to screen (since different databases are overlapping).
+The search across different databases should be combined in a reference manager software such as Endnote, Zotero, or Mendeley. Most standard reference manager software also provide tools to deduplicate the pooled reference library which can substantially reduce the number of records to screen (since different databases are overlapping). A commonly used method for deduplication of reference libraries in EndNote is the [Bramer method](http://dx.doi.org/10.3163/1536-5050.104.3.014).
 
 ###### Pitfalls
 A common pitfall during this step is an insufficiently sensitive search strategy which results in potential key studies being missed. An approach to mitigate this problem is to define a small set of benchmark publications. This is a set of publications which is likely eligible for the systematic review, and which can be tagged by the study authors. These benchmark studies should all be detectable by the respective search string.

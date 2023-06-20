@@ -12,7 +12,9 @@ The CAMARADES Zurich/STRIDE-lab is inviting you to join us for the **Summer Scho
 
 During this summer school, you will learn how systematic reviews can be used to map a research field, to assess animal-to-human translation, and apply the principles of the 3Rs (Replacement, Reduction, and Refinement) to optimize animal experimentation. You will receive comprehensive guidance on conducting reproducible and rigorous systematic reviews of animal studies being equiped to conduct your own systematic reviews.
 
-Seats are limited. Register [here](https://forms.office.com/pages/responsepage.aspx?id=2zjkx2LkIkypCsNYsWmAs51zY4W-7SlMveoOdVsHNbJURjBEN0RET1ZNTlI4VUxZOFlYWFFTOUdFMy4u)
+The course is free. Seats are limited. Register [here](https://forms.office.com/pages/responsepage.aspx?id=2zjkx2LkIkypCsNYsWmAs51zY4W-7SlMveoOdVsHNbJURjBEN0RET1ZNTlI4VUxZOFlYWFFTOUdFMy4u)
+
+2 ECTS is recommended for completion of the course. We are currently ensuring that the course counts as continuing education for animal experimenters.
 
 We look forward to welcoming you to the Summer School on the Systematic Review of Animal Research!
 &nbsp;  
