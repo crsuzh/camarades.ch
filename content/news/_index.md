@@ -9,10 +9,11 @@ weight: 1
 
 A 2-day international meeting on Systematic Reviews of Animal studies and in VItro.
 STAY TUNED for more information, coming soon!
+<br> 
 
-Fees
-Standard: CHF 250
-Student: CHF 150
+*Fees*\
+Standard: CHF 250\
+Student: CHF 150\
 The fee will include a coffee break on both days, as well as a social event for all the participants
 
 We will get in touch with as soon as possible. You will be issued an invoice, and registration is not considered valid until payment has been received by us. 
