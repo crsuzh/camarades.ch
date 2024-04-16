@@ -8,7 +8,7 @@ weight: 1
 **Save the date: October 17th – 18th 2024, University of Zurich​**
 
 A 2-day international meeting on Systematic Reviews of Animal studies and in VItro.\
-*STAY TUNED* for more information, coming soon!
+*STAY TUNED* for more information coming soon!
 <br> 
 
 **Fees**\
