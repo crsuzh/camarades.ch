@@ -7,11 +7,11 @@ weight: 1
 
 **Save the date: October 17th – 18th 2024, University of Zurich​**
 
-A 2-day international meeting on Systematic Reviews of Animal studies and in VItro.
-STAY TUNED for more information, coming soon!
+A 2-day international meeting on Systematic Reviews of Animal studies and in VItro.\
+*STAY TUNED* for more information, coming soon!
 <br> 
 
-*Fees*\
+**Fees**\
 Standard: CHF 250\
 Student: CHF 150\
 The fee will include a coffee break on both days, as well as a social event for all the participants
