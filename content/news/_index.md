@@ -13,7 +13,7 @@ Our priority topics for discussion include:
 - Translational research bridging animal studies to human applications and policy implementation.
 - Identification and management of questionable research practices and potential research misconduct.
 
-The conference will feature a reproducibility challenge, which includes an effort to reproduce various steps of a systematic review and offers a prize.
+The conference will feature a reproducibility challenge, which includes an effort to reproduce various steps of published systematic reviews and offers a prize.
 
 
 *STAY TUNED for more information coming soon!*
@@ -39,7 +39,7 @@ The fee will include a coffee break on both days, as well as a social event for 
 We will get in touch with as soon as possible. You will be issued an invoice, and registration is not considered valid until payment has been received by us. 
 
 **Links**\
-Register for the conference and submit you abstract [here](https://docs.google.com/forms/d/e/1FAIpQLScGHPQFBNqwCRmjYXtZ6FZfltyDZQRvBguYGA7ZDUz6YmCQ5Q/viewform?usp=sf_link)\
+Register for the conference and submit you abstract [here]([https://docs.google.com/forms/d/e/1FAIpQLScGHPQFBNqwCRmjYXtZ6FZfltyDZQRvBguYGA7ZDUz6YmCQ5Q/viewform?usp=sf_link](https://forms.office.com/e/NT5cWNjpE4))\
 Register for the reproducibility challenge here (COMING SOON)
 
 
