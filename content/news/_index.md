@@ -13,17 +13,23 @@ Our priority topics for discussion include:
 - Translational research bridging animal studies to human applications and policy implementation.
 - Identification and management of questionable research practices and potential research misconduct.
 
-We encourage you to submit an abstract for a presentation or poster session focused on these areas. Additionally, we welcome abstracts on other relevant topics within the scope of systematic reviews and meta-analysis.\
-***During the conference, the results of a reproducibility challenge will also be presented.
+The conference will feature a reproducibility challenge, which includes an effort to reproduce various steps of a systematic review and offers a prize.
 
 
 *STAY TUNED for more information coming soon!*
-<br> 
+
+**Abstract submission details**\
+We encourage you to submit an abstract for a presentation or poster session focused on these areas. Additionally, we welcome abstracts on other relevant topics within the scope of systematic reviews and meta-analysis.
+
+
+Abstracts should be submitted by June 15th, 2024, via the registration form below. The title should not exceed 25 words, and the body text is limited to 300 words. All the abstracts exceeding the word limit will not be considered. Abstracts should be structured in introduction, objective, methods, results, and conclusion. We encourage all participants to submit abstracts on going projects, preprints, or research projects, as the conference provides a great opportunity to receive feedback from experts on further analysis and steps.
+
+
 
 **Dates**\
-Abstract submission: June 1st\
-Conference registration: \
-Conference: October 17th - 18th\
+Abstract submission deadline: June 15th\
+Conference registration deadline: September 30th\
+Conference: October 17th - 18th
 
 **Fees**\
 Standard: CHF 250\
@@ -33,8 +39,7 @@ The fee will include a coffee break on both days, as well as a social event for 
 We will get in touch with as soon as possible. You will be issued an invoice, and registration is not considered valid until payment has been received by us. 
 
 **Links**\
-Register for the conference [here](https://docs.google.com/forms/d/e/1FAIpQLScGHPQFBNqwCRmjYXtZ6FZfltyDZQRvBguYGA7ZDUz6YmCQ5Q/viewform?usp=sf_link)\
-Submit your abstract here (COMING SOON)\
+Register for the conference and submit you abstract [here](https://docs.google.com/forms/d/e/1FAIpQLScGHPQFBNqwCRmjYXtZ6FZfltyDZQRvBguYGA7ZDUz6YmCQ5Q/viewform?usp=sf_link)\
 Register for the reproducibility challenge here (COMING SOON)
 
 
