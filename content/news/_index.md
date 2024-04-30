@@ -39,7 +39,7 @@ The fee will include a coffee break on both days, as well as a social event for 
 We will get in touch with as soon as possible. You will be issued an invoice, and registration is not considered valid until payment has been received by us. 
 
 **Links**\
-Register for the conference and submit you abstract [here]([https://docs.google.com/forms/d/e/1FAIpQLScGHPQFBNqwCRmjYXtZ6FZfltyDZQRvBguYGA7ZDUz6YmCQ5Q/viewform?usp=sf_link](https://forms.office.com/e/NT5cWNjpE4))\
+Register for the conference and submit you abstract [here](https://forms.office.com/Pages/ResponsePage.aspx?id=2zjkx2LkIkypCsNYsWmAs51zY4W-7SlMveoOdVsHNbJUOTY1RklNRUJRU0g3OElaSTdISDZQSkJVVi4u)\
 Register for the reproducibility challenge here (COMING SOON)
 
 
@@ -57,7 +57,7 @@ The CAMARADES Zurich/STRIDE-lab is inviting you to join us for the **Summer Scho
 
 During this summer school, you will learn how systematic reviews can be used to map a research field, to assess animal-to-human translation, and apply the principles of the 3Rs (Replacement, Reduction, and Refinement) to optimize animal experimentation. You will receive comprehensive guidance on conducting reproducible and rigorous systematic reviews of animal studies being equiped to conduct your own systematic reviews.
 
-The course is free. Seats are limited. Register [here](https://forms.office.com/pages/responsepage.aspx?id=2zjkx2LkIkypCsNYsWmAs51zY4W-7SlMveoOdVsHNbJURjBEN0RET1ZNTlI4VUxZOFlYWFFTOUdFMy4u)
+The course is free. Seats are limited. Register here.
 
 2 ECTS is recommended for completion of the course. We are currently ensuring that the course counts as continuing education for animal experimenters.
 
