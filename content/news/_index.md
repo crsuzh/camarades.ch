@@ -43,7 +43,7 @@ The fee will include a coffee break on both days, as well as a social event for 
 We will get in touch with as soon as possible. You will be issued an invoice, and registration is not considered valid until payment has been received by us. 
 
 **Links**\
-Register for the conference and submit you abstract [here](https://forms.office.com/Pages/ResponsePage.aspx?id=2zjkx2LkIkypCsNYsWmAs51zY4W-7SlMveoOdVsHNbJUOTY1RklNRUJRU0g3OElaSTdISDZQSkJVVi4u)\
+Register for the conference and submit your abstract [here](https://forms.office.com/Pages/ResponsePage.aspx?id=2zjkx2LkIkypCsNYsWmAs51zY4W-7SlMveoOdVsHNbJUOTY1RklNRUJRU0g3OElaSTdISDZQSkJVVi4u)\
 Register for the reproducibility challenge [here](https://forms.gle/RoZj9qf6PCtGiaV16)
 
 {{< figure src="../Conference_SR-SAVI_flyer_updated.png#center" alt="School" width="70%" >}}
