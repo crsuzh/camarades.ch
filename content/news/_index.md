@@ -13,10 +13,7 @@ Our priority topics for discussion include:
 - Translational research bridging animal studies to human applications and policy implementation.
 - Identification and management of questionable research practices and potential research misconduct.
 
-The conference will feature a reproducibility challenge, which includes an effort to reproduce various steps of published systematic reviews and offers a prize.
-
-
-*STAY TUNED for more information coming soon!*
+The conference will feature a reproducibility challenge, which includes an effort to reproduce various steps of published systematic reviews and offers a prize (see below).
 
 **Abstract submission details**\
 We encourage you to submit an abstract for a presentation or poster session focused on these areas. Additionally, we welcome abstracts on other relevant topics within the scope of systematic reviews and meta-analysis.
@@ -24,7 +21,15 @@ We encourage you to submit an abstract for a presentation or poster session focu
 
 Abstracts should be submitted by June 15th, 2024, via the registration form below. The title should not exceed 25 words, and the body text is limited to 300 words. All the abstracts exceeding the word limit will not be considered. Abstracts should be structured in introduction, objective, methods, results, and conclusion. We encourage all participants to submit abstracts on going projects, preprints, or research projects, as the conference provides a great opportunity to receive feedback from experts on further analysis and steps.
 
+**CAMARADES Reproducibility Challenge**\
+The CAMARADES Reproducibility Challenge aims to assess the status quo of replicability and reproducibility of Systematic Reviews of animal and in vitro studies. We cordially invite you participate! As a participant, you will (try to) replicate part of a published Systematic Review of animal or in vitro studies and assess:
 
+1) The replicability of the original SR, e.g. which hurdles did you encounter when trying to replicate the methodology used?
+2) The reproducibility of the findings, i.e. to what extent were the results of the original SR reproduced?
+
+The Challenge will run up to October 1st 2024. All participants who submit a reproducibility report will be invited to co-author a publication in which all Reproducibility Challenge outputs will be summarized, and recommendations for the field will be formulated. All participants are also invited to present the results of their reproducibility attempt at the International Systematic Reviews of Studies in Animals and in VItro (SR-SAVI) conference, Oct 17-18, in Zurich, Switzerland. A prize for the best Report will be awarded!
+
+We hope you will join the challenge! If you have any questions, please contact kim.wever@radboudumc.nl or sarah.mccann@bih-charite.de.
 
 **Dates**\
 Abstract submission deadline: June 15th\
@@ -40,8 +45,7 @@ We will get in touch with as soon as possible. You will be issued an invoice, an
 
 **Links**\
 Register for the conference and submit you abstract [here](https://forms.office.com/Pages/ResponsePage.aspx?id=2zjkx2LkIkypCsNYsWmAs51zY4W-7SlMveoOdVsHNbJUOTY1RklNRUJRU0g3OElaSTdISDZQSkJVVi4u)\
-Register for the reproducibility challenge here (COMING SOON)
-
+Register for the reproducibility challenge here [here](https://forms.gle/RoZj9qf6PCtGiaV16)\
 
 {{< figure src="../Conference_SR-SAVI_flyer_updated.png#center" alt="School" width="70%" >}}
 
