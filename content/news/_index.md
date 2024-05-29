@@ -32,8 +32,8 @@ The CAMARADES Reproducibility Challenge aims to assess the status quo of replica
 
 The Challenge will run up to September 30th 2024. All participants who submit a reproducibility report will be invited to co-author a publication in which all Reproducibility Challenge outputs will be summarized, and recommendations for the field will be formulated. All participants are also invited to present the results of their reproducibility attempt at the International Systematic Reviews of Studies in Animals and in VItro (SR-SAVI) conference, Oct 17-18, in Zurich, Switzerland. A prize for the best Report will be awarded!
 
-We hope you will join the challenge!  Sign up for the Reproducibility Challenge using this [form](https://docs.google.com/forms/d/e/1FAIpQLScS5K3sFxZRlO8bWmeqn1IqTDtDV-ZRH39CtZJVdzCOwRjTSg/viewform). The template for the Reproducibility Challenge Report can be found [here](https://docs.google.com/document/d/1WAH9OlFSgCukwQAUHaZfN6yYlpfFybQG/edit). If you have question, please check out our [FAQ](https://docs.google.com/document/d/1_2tc4feJjZf4mgGQx2Af_rtkwJL0uml8/edit).
-If you have any questions, please contact [Kim Wever](mailto:kim.wever@radboudumc.nl) or [Sarah McCann](mailto:sarah.mccann@bih-charite.de).
+We hope you will join the challenge!  Sign up for the Reproducibility Challenge using this [form](https://docs.google.com/forms/d/e/1FAIpQLScS5K3sFxZRlO8bWmeqn1IqTDtDV-ZRH39CtZJVdzCOwRjTSg/viewform). The template for the Reproducibility Challenge Report can be found [here](https://docs.google.com/document/d/1WAH9OlFSgCukwQAUHaZfN6yYlpfFybQG/edit). If you have questions, please check out our [FAQ](https://docs.google.com/document/d/1_2tc4feJjZf4mgGQx2Af_rtkwJL0uml8/edit).
+If you have any further questions, please contact [Kim Wever](mailto:kim.wever@radboudumc.nl) or [Sarah McCann](mailto:sarah.mccann@bih-charite.de).
 
 **Dates**\
 Conference abstract submission deadline: June 15th\
