@@ -18,7 +18,7 @@ The conference will feature a reproducibility challenge, which includes an effor
 **Abstract submission details**\
 We encourage you to submit an abstract for a presentation or poster session focused on these areas. Additionally, we welcome abstracts on other relevant topics within the scope of systematic reviews and meta-analysis.
 
-Abstracts should be submitted by June 15th, 2024, via the registration form below. The title should not exceed 25 words, and the body text is limited to 300 words. All the abstracts exceeding the word limit will not be considered. Abstracts should be structured in introduction, objective, methods, results, and conclusion (ignore the results/concluson section if you submit preliminary work/study protocols). We encourage all participants to submit abstracts on going projects, preprints, or research projects, as the conference provides a great opportunity to receive feedback from experts on further analysis and steps.
+Abstracts should be submitted by July 15th, 2024, via the registration form below. The title should not exceed 25 words, and the body text is limited to 300 words. All the abstracts exceeding the word limit will not be considered. Abstracts should be structured in introduction, objective, methods, results, and conclusion (ignore the results/concluson section if you submit preliminary work/study protocols). We encourage all participants to submit abstracts on going projects, preprints, or research projects, as the conference provides a great opportunity to receive feedback from experts on further analysis and steps.
 
 Register for the conference and submit your abstract [here](https://forms.office.com/Pages/ResponsePage.aspx?id=2zjkx2LkIkypCsNYsWmAs51zY4W-7SlMveoOdVsHNbJUOTY1RklNRUJRU0g3OElaSTdISDZQSkJVVi4u)
 
@@ -36,7 +36,7 @@ We hope you will join the challenge!  Sign up for the Reproducibility Challenge 
 If you have any further questions, please contact [Kim Wever](mailto:kim.wever@radboudumc.nl) or [Sarah McCann](mailto:sarah.mccann@bih-charite.de).
 
 **Dates**\
-Conference abstract submission deadline: June 15th\
+Conference abstract submission deadline: July 15th\
 Conference registration deadline: September 30th\
 Reproducibility Challenge report submission deadline: September 30th\
 Conference: October 17th - 18th
