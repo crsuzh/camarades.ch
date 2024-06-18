@@ -49,7 +49,7 @@ The fee will include a coffee break on both days, as well as a social event for 
 We will get in touch with as soon as possible. You will be issued an invoice, and registration is not considered valid until payment has been received by us. 
 
 **Links**\
-Register for the conference and submit your abstract [here](https://forms.office.com/Pages/ResponsePage.aspx?id=2zjkx2LkIkypCsNYsWmAs51zY4W-7SlMveoOdVsHNbJUOTY1RklNRUJRU0g3OElaSTdISDZQSkJVVi4u)\
+Register for the conference and submit your abstract [here](https://forms.office.com/Pages/ResponsePage.aspx?id=2zjkx2LkIkypCsNYsWmAs51zY4W-7SlMveoOdVsHNbJUOTY1RklNRUJRU0g3OElaSTdISDZQSkJVVi4u) (Note: If you plan to submit more than one abstract, please fill out the form again for each additional submission)\
 Register for the reproducibility challenge [here](https://docs.google.com/forms/d/e/1FAIpQLScS5K3sFxZRlO8bWmeqn1IqTDtDV-ZRH39CtZJVdzCOwRjTSg/viewform)\
 [Reproducibility Challenge Report template](https://docs.google.com/document/d/1WAH9OlFSgCukwQAUHaZfN6yYlpfFybQG/edit)\
 [Reproducibility Challenge FAQs](https://docs.google.com/document/d/1_2tc4feJjZf4mgGQx2Af_rtkwJL0uml8/edit)
