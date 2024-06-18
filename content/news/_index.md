@@ -20,7 +20,7 @@ We encourage you to submit an abstract for a presentation or poster session focu
 
 Abstracts should be submitted by July 15th, 2024, via the registration form below. The title should not exceed 25 words, and the body text is limited to 300 words. All the abstracts exceeding the word limit will not be considered. Abstracts should be structured in introduction, objective, methods, results, and conclusion (ignore the results/concluson section if you submit preliminary work/study protocols). We encourage all participants to submit abstracts on going projects, preprints, or research projects, as the conference provides a great opportunity to receive feedback from experts on further analysis and steps.
 
-Register for the conference and submit your abstract [here](https://forms.office.com/Pages/ResponsePage.aspx?id=2zjkx2LkIkypCsNYsWmAs51zY4W-7SlMveoOdVsHNbJUOTY1RklNRUJRU0g3OElaSTdISDZQSkJVVi4u)
+Register for the conference and submit your abstract [here](https://forms.office.com/Pages/ResponsePage.aspx?id=2zjkx2LkIkypCsNYsWmAs51zY4W-7SlMveoOdVsHNbJUOTY1RklNRUJRU0g3OElaSTdISDZQSkJVVi4u) (Note: If you plan to submit more than one abstract, please fill out the form again for each additional submission)
 
 If you have any questions, please contact [Marianna Rosso](mailto:marianna.rosso@uzh.ch) or [Benjamin Ineichen](mailto:benjamin.ineichen@uzh.ch)
 
