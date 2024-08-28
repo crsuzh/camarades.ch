@@ -42,8 +42,8 @@ Reproducibility Challenge report submission deadline: September 30th\
 Conference: October 17th - 18th
 
 **Fees**\
-Standard: CHF 250\
-Student: CHF 150\
+Standard: CHF 200\
+Student: CHF 100\
 The fee will include a coffee break on both days, as well as a social event for all the participants
 
 We will get in touch with as soon as possible. You will be issued an invoice, and registration is not considered valid until payment has been received by us. 
