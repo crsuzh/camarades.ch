@@ -54,11 +54,12 @@ Register for the reproducibility challenge [here](https://docs.google.com/forms/
 [Reproducibility Challenge Report template](https://docs.google.com/document/d/1WAH9OlFSgCukwQAUHaZfN6yYlpfFybQG/edit)\
 [Reproducibility Challenge FAQs](https://docs.google.com/document/d/1_2tc4feJjZf4mgGQx2Af_rtkwJL0uml8/edit)
 
+
+**Sponsors**\
 A special thanks to our sponsors for the generous contribution, without which the conference would not be possible:
+{{< figure src="../UZHAlumni.png#center" alt="School" width="40%" >}} {{< figure src="../CRLogo.png#center" alt="School" width="40%" >}}
 
-{{< figure src="../UZHAlumni.png#center" alt="School" width="40%" >}}
-
-{{< figure src="../CRLogo.png#center" alt="School" width="40%" >}}
+<br>
 
 {{< figure src="../Conference_SR-SAVI_flyer_updated.png#center" alt="School" width="70%" >}}
 
