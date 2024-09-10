@@ -57,10 +57,10 @@ Register for the reproducibility challenge [here](https://docs.google.com/forms/
 
 **Sponsors**\
 A special thanks to our sponsors for the generous contribution, without which the conference would not be possible:
-<div style="display: flex; justify-content: center;">
-    <img src="../UZHAlumni.png" alt="UZH" style="width: 40%; margin-right: 20px;">
-    <img src="../CRLogo.png" alt="CR" style="width: 40%;">
-</div>
+
+{{< figure src="../CRLogo.png#left" alt="CR" width="40%" >}}
+{{< figure src="../UZHAlumni.png#right" alt="UZH" width="40%" >}}
+
 
 {{< figure src="../Conference_SR-SAVI_flyer_updated.png#center" alt="School" width="70%" >}}
 
