@@ -4,7 +4,7 @@ date: 2018-11-28T15:14:39+10:00
 weight: 1
 ---
 
-PD **Benjamin Victor Ineichen**, MD PhD; Head CAMARADES Zurich,  [E-mail](mailto:benjamin.ineichen@uzh.ch)
+PD **Benjamin Victor Ineichen**, MD PhD; Head CAMARADES Switzerland,  [E-mail](mailto:benjamin.ineichen@uzh.ch)
 {{< figure src="../Ineichen.jpg#floatleft" alt="picture" width="15%" >}}
 &nbsp;  
 &nbsp;  
@@ -43,7 +43,7 @@ Do you want to support us or conduct your own systematic review or do you have f
 &nbsp;  
 &nbsp;  
 
-CAMARADES Zurich are located at the [Center for Reproducible Science](https://www.crs.uzh.ch/en.html) at the [Epidemiology, Biostatistics, and Prevention Institute](https://www.ebpi.uzh.ch/en.html) (EBPI) at the University of Zurich.
+CAMARADES Switzerland are located at the [Center for Reproducible Science](https://www.crs.uzh.ch/en.html) at the [Epidemiology, Biostatistics, and Prevention Institute](https://www.ebpi.uzh.ch/en.html) (EBPI) at the University of Zurich.
 &nbsp;  
 
 {{< figure src="../CRS_logo.jpg#center" alt="Logo" width="20%" >}}
